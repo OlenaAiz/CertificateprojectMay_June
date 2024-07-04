@@ -1,0 +1,2200 @@
+[
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2024-05-22T13:06:10.331Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "CreateYourTourStyle object (1)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2024-05-22T13:06:54.563Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "CreateYourTourStyle object (2)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2024-05-22T13:07:21.905Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "3",
+        "object_repr": "CreateYourTourStyle object (3)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2024-05-22T13:07:43.034Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "4",
+        "object_repr": "CreateYourTourStyle object (4)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2024-05-22T13:08:07.607Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "5",
+        "object_repr": "CreateYourTourStyle object (5)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2024-05-22T13:08:39.727Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "6",
+        "object_repr": "CreateYourTourStyle object (6)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2024-05-22T13:08:59.016Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "7",
+        "object_repr": "CreateYourTourStyle object (7)",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2024-06-02T13:40:53.968Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "5",
+        "object_repr": "Ukrainian history and landscapes",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2024-06-02T13:42:41.379Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "1",
+        "object_repr": "First-class Impressions are Waiting for You!Book a tour now!",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2024-06-02T13:46:53.098Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "1",
+        "object_repr": "ì³ñòî Êè¿â. Óêðà¿íà",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2024-06-06T13:40:22.891Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "1",
+        "object_repr": "about usbest experienceget in touch",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2024-06-06T13:41:18.674Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "2",
+        "object_repr": "why choose uscoolestread more",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2024-06-06T13:44:33.781Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "3",
+        "object_repr": "our missionshare historyour mission",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2024-06-06T13:50:29.320Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "1",
+        "object_repr": "museums",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2024-06-06T13:50:46.566Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "2",
+        "object_repr": "cities",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+        "action_time": "2024-06-06T13:51:07.007Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "3",
+        "object_repr": "attractions",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+        "action_time": "2024-06-06T13:51:21.732Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "4",
+        "object_repr": "evevnts",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+        "action_time": "2024-06-06T13:51:47.025Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "5",
+        "object_repr": "routes",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+        "action_time": "2024-06-06T13:52:41.467Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "6",
+        "object_repr": "tourists",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+        "action_time": "2024-06-06T13:54:06.504Z",
+        "user": 1,
+        "content_type": 13,
+        "object_id": "1",
+        "object_repr": "Mary Wonderful-Manager",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+        "action_time": "2024-06-06T13:55:57.074Z",
+        "user": 1,
+        "content_type": 13,
+        "object_id": "2",
+        "object_repr": "Univer Sal-Art Directors",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+        "action_time": "2024-06-06T13:56:46.363Z",
+        "user": 1,
+        "content_type": 13,
+        "object_id": "3",
+        "object_repr": "Franz and Sisi-Vienna tour guides",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+        "action_time": "2024-06-06T13:57:29.655Z",
+        "user": 1,
+        "content_type": 13,
+        "object_id": "4",
+        "object_repr": "Paul-Copywriter Bilbao",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+        "action_time": "2024-06-06T13:59:04.099Z",
+        "user": 1,
+        "content_type": 13,
+        "object_id": "5",
+        "object_repr": "Magdalena-Polish Tour Manager",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+        "action_time": "2024-06-06T14:00:14.958Z",
+        "user": 1,
+        "content_type": 13,
+        "object_id": "6",
+        "object_repr": "Kevin-Spain, Portugal, France, BeNiLux tour manager",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+        "action_time": "2024-06-06T14:00:56.246Z",
+        "user": 1,
+        "content_type": 13,
+        "object_id": "7",
+        "object_repr": "Garold-Central and Northern Europe tour manager",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+        "action_time": "2024-06-06T14:01:59.792Z",
+        "user": 1,
+        "content_type": 13,
+        "object_id": "2",
+        "object_repr": "Pete-America tour manager",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Name\", \"Position\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+        "action_time": "2024-06-06T14:02:37.576Z",
+        "user": 1,
+        "content_type": 13,
+        "object_id": "8",
+        "object_repr": "Libertas-America tour manager",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+        "action_time": "2024-06-06T14:03:02.359Z",
+        "user": 1,
+        "content_type": 13,
+        "object_id": "2",
+        "object_repr": "Pete-America attractions manager",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Position\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+        "action_time": "2024-06-06T14:03:42.520Z",
+        "user": 1,
+        "content_type": 13,
+        "object_id": "1",
+        "object_repr": "Mary-Eastern Tours Manager",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Name\", \"Position\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+        "action_time": "2024-06-06T14:04:25.469Z",
+        "user": 1,
+        "content_type": 13,
+        "object_id": "9",
+        "object_repr": "Doherty-European Regioanl Director",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+        "action_time": "2024-06-06T14:06:30.229Z",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "1",
+        "object_repr": "Personalized MatchingOur unique matching system lets you find just the tour you want for your next holiday.",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+        "action_time": "2024-06-06T14:07:00.708Z",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "2",
+        "object_repr": "Wide Variety of ToursWe offer a wide variety of personally picked tours with destinations all over the globe.",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+        "action_time": "2024-06-06T14:08:05.636Z",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "3",
+        "object_repr": "Highly Qualified ServiceOur tour managers are qualified, skilled, and friendly to bring you the best service.",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+        "action_time": "2024-06-06T14:08:41.338Z",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "4",
+        "object_repr": "24/7 SupportYou can always get professional support from our staff 24/7 and ask any question you have.",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+        "action_time": "2024-06-06T14:09:06.763Z",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "5",
+        "object_repr": "Handpicked HotelsOur team offers only the best selection of affordable and luxury hotels to our clients.",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+        "action_time": "2024-06-06T14:09:28.912Z",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "6",
+        "object_repr": "Best Price GuaranteeIf you find tours that are cheaper than ours, we will compensate the difference.",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+        "action_time": "2024-06-06T14:10:14.008Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "1",
+        "object_repr": "Kyiv city. Ukraine",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Address\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+        "action_time": "2024-06-06T14:13:22.825Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "1",
+        "object_repr": "Sankt Polten, Austria, Lake2024-06-06Houses, cities and history of beautiful AustriahotTours/2024/06/06/photo_2024-06-06_15-41-11.jpg20055Mountain Holiday",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+        "action_time": "2024-06-06T14:13:38.948Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "attractions",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+        "action_time": "2024-06-06T14:13:45.558Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Attractions",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+        "action_time": "2024-06-06T14:13:55.049Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "Mountain Holiday",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+        "action_time": "2024-06-06T14:14:43.671Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "6",
+        "object_repr": "Historical Excursions",
+        "action_flag": 2,
+        "change_message": "[]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 44,
+    "fields": {
+        "action_time": "2024-06-06T14:15:07.048Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "8",
+        "object_repr": "Cities Travelling",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 45,
+    "fields": {
+        "action_time": "2024-06-06T14:15:29.280Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "9",
+        "object_repr": "Museums",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 46,
+    "fields": {
+        "action_time": "2024-06-06T14:15:40.774Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "1",
+        "object_repr": "Sankt Polten, Austria, Lake2024-06-06Houses, cities and history of beautiful AustriahotTours/2024/06/06/photo_2024-06-06_15-41-11.jpg200.0055Cities Travelling",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Tourstyle\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 47,
+    "fields": {
+        "action_time": "2024-06-06T14:18:07.896Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "2",
+        "object_repr": "Alps Resort2024-06-06Someone who prefers nature at winter. Good location. 2-4 rooms boongaloos, food included. place to rent ski.hotTours/2024/06/06/photo_2024-06-06_15-41-12.jpg150058Winter Adventure",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 48,
+    "fields": {
+        "action_time": "2024-06-06T14:20:01.629Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "3",
+        "object_repr": "Amsterdam2024-06-06Visit the city 7-10 days, see local canals, drive the boat, a lot of a free time. Hotels near local attractions.hotTours/2024/06/06/photo_2024-06-06_15-41-21.jpg80045Cities Travelli",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 49,
+    "fields": {
+        "action_time": "2024-06-06T14:26:58.317Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "4",
+        "object_repr": "Moshny village, Ukraine2024-06-06Vishnevetsky Castle. around this castle there was so-called Polish Settlement with a church - the residence of the Polish court of the prince. The prince immediatly be",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 50,
+    "fields": {
+        "action_time": "2024-06-06T14:29:42.359Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "5",
+        "object_repr": "Nuremberg2024-06-062 days weekend trip to buy local statuttes of local masters shop. 2 one hour morning excurcions included. Our manager gonna help create you a paln of what to do inside the cityhotTo",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 51,
+    "fields": {
+        "action_time": "2024-06-06T14:36:40.854Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "6",
+        "object_repr": "Praha and Tatry Mountains Hikes2024-06-06Travel by comfortable class train. 2-5 days in Prague. A lot of hikes in mountain region near Slovakia on Chech side.hotTours/2024/06/06/photo_2024-06-06_15-41",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 52,
+    "fields": {
+        "action_time": "2024-06-06T14:38:05.447Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "7",
+        "object_repr": "Paragliding Flight2024-06-06You can do that during your mountain stay at AlpshotTours/2024/06/06/photo_2024-06-06_15-41-41.jpg15055Mountain Holiday",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 53,
+    "fields": {
+        "action_time": "2024-06-06T14:45:33.882Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "8",
+        "object_repr": "Turkey Beach2024-06-06Kemer city, 7-10-14 days, a various range of excursions, first and second line, 3 restaurants insie the hotel. Attractions nearby. City close to mountainhotTours/2024/06/06/photo",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 54,
+    "fields": {
+        "action_time": "2024-06-06T14:47:31.937Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "9",
+        "object_repr": "Bolearen Islands2024-06-06Choose any of island, departure from Spain big cities, and we choose nice hotels and create route to you. Be ready to book a carhotTours/2024/06/06/photo_2024-06-06_15-42-09.",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 55,
+    "fields": {
+        "action_time": "2024-06-06T14:49:01.623Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "10",
+        "object_repr": "Ancient Rome2024-06-06Sightseeings aroud Rome city. 5 excursions.hotTours/2024/06/06/photo_2024-06-06_15-42-47.jpg30055Historical Excursions",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 56,
+    "fields": {
+        "action_time": "2024-06-06T14:52:15.102Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "11",
+        "object_repr": "San Francisco2024-06-06You will get to know everything about the city. City on hills. A lot of piers.hotTours/2024/06/06/photo_2024-06-06_15-42-58.jpg100055Attractions",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 57,
+    "fields": {
+        "action_time": "2024-06-06T14:55:09.363Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "12",
+        "object_repr": "Toledo, Spain2024-06-063 cities around Madrid. 3 types of routes already done for your choicehotTours/2024/06/06/photo_2024-06-06_15-42-55.jpg30055Museums",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 58,
+    "fields": {
+        "action_time": "2024-06-06T14:57:51.011Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "13",
+        "object_repr": "Small cities around the Rome2024-06-06local food and history. Special tranfer big or small group, or private for own group or family formathotTours/2024/06/06/photo_2024-06-06_15-42-48.jpg30055Cities ",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 59,
+    "fields": {
+        "action_time": "2024-06-06T14:59:28.870Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "14",
+        "object_repr": "Tirol2024-06-06Stays in a nature placehotTours/2024/06/06/photo_2024-06-06_15-41-36.jpg20055Simple Nature",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 60,
+    "fields": {
+        "action_time": "2024-06-07T05:43:49.714Z",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "4",
+        "object_repr": "24/7 Support testYou can always get professional support from our staff 24/7 and ask any question you have.",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 61,
+    "fields": {
+        "action_time": "2024-06-07T05:43:58.016Z",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "6",
+        "object_repr": "Best Price Guarantee testIf you find tours that are cheaper than ours, we will compensate the difference.",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 62,
+    "fields": {
+        "action_time": "2024-06-07T05:49:48.198Z",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "6",
+        "object_repr": "Best Price Guarantee testIf you find tours that are cheaper than ours, we will compensate the difference.",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Icon\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 63,
+    "fields": {
+        "action_time": "2024-06-07T05:50:27.803Z",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "5",
+        "object_repr": "Handpicked HotelsOur team offers only the best selection of affordable and luxury hotels to our clients.",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Icon\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 64,
+    "fields": {
+        "action_time": "2024-06-07T05:50:57.318Z",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "3",
+        "object_repr": "Highly Qualified ServiceOur tour managers are qualified, skilled, and friendly to bring you the best service.",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Icon\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 65,
+    "fields": {
+        "action_time": "2024-06-07T05:51:26.066Z",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "1",
+        "object_repr": "Personalized MatchingOur unique matching system lets you find just the tour you want for your next holiday.",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Icon\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 66,
+    "fields": {
+        "action_time": "2024-06-07T05:51:53.998Z",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "2",
+        "object_repr": "Wide Variety of ToursWe offer a wide variety of personally picked tours with destinations all over the globe.",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Icon\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 67,
+    "fields": {
+        "action_time": "2024-06-07T05:53:06.307Z",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "5",
+        "object_repr": "Handpicked HotelsOur team offers only the best selection of affordable and luxury hotels to our clients.",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Icon\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 68,
+    "fields": {
+        "action_time": "2024-06-16T07:26:21.072Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "Historical Excursions",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 69,
+    "fields": {
+        "action_time": "2024-06-16T07:27:11.359Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "Sea walks",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 70,
+    "fields": {
+        "action_time": "2024-06-16T07:28:59.446Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "1",
+        "object_repr": "First-class Impressions are Waiting for You!Book a tour now!",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 71,
+    "fields": {
+        "action_time": "2024-06-16T07:29:33.899Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "1",
+        "object_repr": "Kyiv city. Ukraine",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 72,
+    "fields": {
+        "action_time": "2024-06-16T07:47:46.320Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "1",
+        "object_repr": "about usWonder Tour is committed to bringing our clients the best in value and quality travel arrangements. We are passionate about travel and sharing the world's wonders with you.Get in touch",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 73,
+    "fields": {
+        "action_time": "2024-06-16T07:48:49.104Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "2",
+        "object_repr": "WHY CHOOSE USWe are proud to offer excellent quality and value for money in our tours, which give you the chance to experience your chosen destination in an authentic and exciting way.Get in touch2",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 74,
+    "fields": {
+        "action_time": "2024-06-16T07:53:51.045Z",
+        "user": 1,
+        "content_type": 10,
+        "object_id": "3",
+        "object_repr": "OUR MISSIONOur mission is to provide the ultimate travel planning experience while becoming a one-stop shop for every travel service available in the industry.Get in touch3",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 75,
+    "fields": {
+        "action_time": "2024-06-16T07:54:42.911Z",
+        "user": 1,
+        "content_type": 15,
+        "object_id": "1",
+        "object_repr": "maybe header",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 76,
+    "fields": {
+        "action_time": "2024-06-16T07:55:17.439Z",
+        "user": 1,
+        "content_type": 15,
+        "object_id": "2",
+        "object_repr": "2",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 77,
+    "fields": {
+        "action_time": "2024-06-16T07:58:05.311Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "1",
+        "object_repr": "Sea2024-06-16Holidayhottours/photo_2024-06-06_15-42-35.jpg1000520Sea walks",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 78,
+    "fields": {
+        "action_time": "2024-06-16T07:59:02.380Z",
+        "user": 1,
+        "content_type": 14,
+        "object_id": "2",
+        "object_repr": "Ukrainian village2024-06-16Entertainign, you gonna learn a lothottours/photo_2024-06-06_15-41-56.jpg500626Historical Excursions",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 79,
+    "fields": {
+        "action_time": "2024-06-16T07:59:44.574Z",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "1",
+        "object_repr": "Personalized MatchingOur unique matching system lets you find just the tour you want for your next holiday.",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 80,
+    "fields": {
+        "action_time": "2024-06-16T08:01:44.893Z",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "2",
+        "object_repr": "Wide Variety of ToursWe offer a wide variety of personally picked tours with destinations all over the globe.",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 81,
+    "fields": {
+        "action_time": "2024-06-16T08:02:06.102Z",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "3",
+        "object_repr": "Highly Qualified ServiceOur tour managers are qualified, skilled, and friendly to bring you the best service.",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 82,
+    "fields": {
+        "action_time": "2024-06-16T08:02:40.199Z",
+        "user": 1,
+        "content_type": 13,
+        "object_id": "1",
+        "object_repr": "Libertas-America tour manager",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 83,
+    "fields": {
+        "action_time": "2024-06-16T08:04:17.435Z",
+        "user": 1,
+        "content_type": 13,
+        "object_id": "2",
+        "object_repr": "Garold-BeNiLux, Northern and Central Europe Regional Director",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 84,
+    "fields": {
+        "action_time": "2024-06-16T08:05:13.925Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "1",
+        "object_repr": "flowers city",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 85,
+    "fields": {
+        "action_time": "2024-06-16T08:05:28.474Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "2",
+        "object_repr": "demonstration",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 86,
+    "fields": {
+        "action_time": "2024-06-16T08:05:54.561Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "3",
+        "object_repr": "shoping tours",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 87,
+    "fields": {
+        "action_time": "2024-06-16T08:06:11.190Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "4",
+        "object_repr": "nature escape tours",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 88,
+    "fields": {
+        "action_time": "2024-06-16T08:06:26.445Z",
+        "user": 1,
+        "content_type": 11,
+        "object_id": "5",
+        "object_repr": "spain",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 89,
+    "fields": {
+        "action_time": "2024-06-16T08:10:58.562Z",
+        "user": 1,
+        "content_type": 16,
+        "object_id": "1",
+        "object_repr": "Trust-Our Experience-Get in touch",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 90,
+    "fields": {
+        "action_time": "2024-06-16T08:12:58.019Z",
+        "user": 1,
+        "content_type": 16,
+        "object_id": "2",
+        "object_repr": "Create-Your Tour-Get in touch1",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 91,
+    "fields": {
+        "action_time": "2024-06-16T08:15:53.198Z",
+        "user": 1,
+        "content_type": 16,
+        "object_id": "3",
+        "object_repr": "Explore-The World-Get in touch2",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 92,
+    "fields": {
+        "action_time": "2024-06-16T09:03:21.257Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "1",
+        "object_repr": "First-class Impressions are Waiting for You!Book a tour now!",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Photo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 93,
+    "fields": {
+        "action_time": "2024-06-16T09:11:52.357Z",
+        "user": 1,
+        "content_type": 9,
+        "object_id": "1",
+        "object_repr": "Kyiv city. Ukraine",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Instagram link\", \"Twitter link\"]}}]"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+        "name": "Can add log entry",
+        "content_type": 1,
+        "codename": "add_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+        "name": "Can change log entry",
+        "content_type": 1,
+        "codename": "change_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+        "name": "Can delete log entry",
+        "content_type": 1,
+        "codename": "delete_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+        "name": "Can view log entry",
+        "content_type": 1,
+        "codename": "view_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+        "name": "Can add permission",
+        "content_type": 2,
+        "codename": "add_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+        "name": "Can change permission",
+        "content_type": 2,
+        "codename": "change_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+        "name": "Can delete permission",
+        "content_type": 2,
+        "codename": "delete_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+        "name": "Can view permission",
+        "content_type": 2,
+        "codename": "view_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+        "name": "Can add group",
+        "content_type": 3,
+        "codename": "add_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+        "name": "Can change group",
+        "content_type": 3,
+        "codename": "change_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+        "name": "Can delete group",
+        "content_type": 3,
+        "codename": "delete_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+        "name": "Can view group",
+        "content_type": 3,
+        "codename": "view_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+        "name": "Can add user",
+        "content_type": 4,
+        "codename": "add_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+        "name": "Can change user",
+        "content_type": 4,
+        "codename": "change_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+        "name": "Can delete user",
+        "content_type": 4,
+        "codename": "delete_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+        "name": "Can view user",
+        "content_type": 4,
+        "codename": "view_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+        "name": "Can add content type",
+        "content_type": 5,
+        "codename": "add_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+        "name": "Can change content type",
+        "content_type": 5,
+        "codename": "change_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+        "name": "Can delete content type",
+        "content_type": 5,
+        "codename": "delete_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+        "name": "Can view content type",
+        "content_type": 5,
+        "codename": "view_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+        "name": "Can add session",
+        "content_type": 6,
+        "codename": "add_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+        "name": "Can change session",
+        "content_type": 6,
+        "codename": "change_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+        "name": "Can delete session",
+        "content_type": 6,
+        "codename": "delete_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+        "name": "Can view session",
+        "content_type": 6,
+        "codename": "view_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+        "name": "Can add create your tour style",
+        "content_type": 7,
+        "codename": "add_createyourtourstyle"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+        "name": "Can change create your tour style",
+        "content_type": 7,
+        "codename": "change_createyourtourstyle"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+        "name": "Can delete create your tour style",
+        "content_type": 7,
+        "codename": "delete_createyourtourstyle"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+        "name": "Can view create your tour style",
+        "content_type": 7,
+        "codename": "view_createyourtourstyle"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+        "name": "Can add Book A Tour Now",
+        "content_type": 8,
+        "codename": "add_booktournow"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+        "name": "Can change Book A Tour Now",
+        "content_type": 8,
+        "codename": "change_booktournow"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+        "name": "Can delete Book A Tour Now",
+        "content_type": 8,
+        "codename": "delete_booktournow"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+        "name": "Can view Book A Tour Now",
+        "content_type": 8,
+        "codename": "view_booktournow"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+        "name": "Can add Contact",
+        "content_type": 9,
+        "codename": "add_contacts"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+        "name": "Can change Contact",
+        "content_type": 9,
+        "codename": "change_contacts"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+        "name": "Can delete Contact",
+        "content_type": 9,
+        "codename": "delete_contacts"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+        "name": "Can view Contact",
+        "content_type": 9,
+        "codename": "view_contacts"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 37,
+    "fields": {
+        "name": "Can add Discover New Horizon",
+        "content_type": 10,
+        "codename": "add_discovernewhorizon"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 38,
+    "fields": {
+        "name": "Can change Discover New Horizon",
+        "content_type": 10,
+        "codename": "change_discovernewhorizon"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 39,
+    "fields": {
+        "name": "Can delete Discover New Horizon",
+        "content_type": 10,
+        "codename": "delete_discovernewhorizon"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 40,
+    "fields": {
+        "name": "Can view Discover New Horizon",
+        "content_type": 10,
+        "codename": "view_discovernewhorizon"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 41,
+    "fields": {
+        "name": "Can add Photo",
+        "content_type": 11,
+        "codename": "add_gallery"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 42,
+    "fields": {
+        "name": "Can change Photo",
+        "content_type": 11,
+        "codename": "change_gallery"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 43,
+    "fields": {
+        "name": "Can delete Photo",
+        "content_type": 11,
+        "codename": "delete_gallery"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 44,
+    "fields": {
+        "name": "Can view Photo",
+        "content_type": 11,
+        "codename": "view_gallery"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 45,
+    "fields": {
+        "name": "Can add Our Service",
+        "content_type": 12,
+        "codename": "add_ourservices"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 46,
+    "fields": {
+        "name": "Can change Our Service",
+        "content_type": 12,
+        "codename": "change_ourservices"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 47,
+    "fields": {
+        "name": "Can delete Our Service",
+        "content_type": 12,
+        "codename": "delete_ourservices"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 48,
+    "fields": {
+        "name": "Can view Our Service",
+        "content_type": 12,
+        "codename": "view_ourservices"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 49,
+    "fields": {
+        "name": "Can add Our Staff",
+        "content_type": 13,
+        "codename": "add_ourstaff"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 50,
+    "fields": {
+        "name": "Can change Our Staff",
+        "content_type": 13,
+        "codename": "change_ourstaff"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 51,
+    "fields": {
+        "name": "Can delete Our Staff",
+        "content_type": 13,
+        "codename": "delete_ourstaff"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 52,
+    "fields": {
+        "name": "Can view Our Staff",
+        "content_type": 13,
+        "codename": "view_ourstaff"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 53,
+    "fields": {
+        "name": "Can add Hot Tour",
+        "content_type": 14,
+        "codename": "add_hottours"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 54,
+    "fields": {
+        "name": "Can change Hot Tour",
+        "content_type": 14,
+        "codename": "change_hottours"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 55,
+    "fields": {
+        "name": "Can delete Hot Tour",
+        "content_type": 14,
+        "codename": "delete_hottours"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 56,
+    "fields": {
+        "name": "Can view Hot Tour",
+        "content_type": 14,
+        "codename": "view_hottours"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 57,
+    "fields": {
+        "name": "Can add headerfooter",
+        "content_type": 15,
+        "codename": "add_headerfooter"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 58,
+    "fields": {
+        "name": "Can change headerfooter",
+        "content_type": 15,
+        "codename": "change_headerfooter"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 59,
+    "fields": {
+        "name": "Can delete headerfooter",
+        "content_type": 15,
+        "codename": "delete_headerfooter"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 60,
+    "fields": {
+        "name": "Can view headerfooter",
+        "content_type": 15,
+        "codename": "view_headerfooter"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 61,
+    "fields": {
+        "name": "Can add photo",
+        "content_type": 16,
+        "codename": "add_swiper"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 62,
+    "fields": {
+        "name": "Can change photo",
+        "content_type": 16,
+        "codename": "change_swiper"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 63,
+    "fields": {
+        "name": "Can delete photo",
+        "content_type": 16,
+        "codename": "delete_swiper"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 64,
+    "fields": {
+        "name": "Can view photo",
+        "content_type": 16,
+        "codename": "view_swiper"
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$720000$zJJdT0TGjNcRkN5GZeEssk$rZbS2RVbP1UpOfJQWvNzFDWTAjdPkqdVrPqH/tDxbfE=",
+        "last_login": "2024-06-07T05:43:29.746Z",
+        "is_superuser": true,
+        "username": "admin",
+        "first_name": "",
+        "last_name": "",
+        "email": "helen.aizman@gmail.com",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2024-05-22T13:03:33.297Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+        "app_label": "admin",
+        "model": "logentry"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+        "app_label": "auth",
+        "model": "permission"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+        "app_label": "auth",
+        "model": "group"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+        "app_label": "auth",
+        "model": "user"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+        "app_label": "contenttypes",
+        "model": "contenttype"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+        "app_label": "sessions",
+        "model": "session"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+        "app_label": "Home",
+        "model": "createyourtourstyle"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+        "app_label": "Home",
+        "model": "booktournow"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 9,
+    "fields": {
+        "app_label": "Home",
+        "model": "contacts"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 10,
+    "fields": {
+        "app_label": "Home",
+        "model": "discovernewhorizon"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 11,
+    "fields": {
+        "app_label": "Home",
+        "model": "gallery"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 12,
+    "fields": {
+        "app_label": "Home",
+        "model": "ourservices"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 13,
+    "fields": {
+        "app_label": "Home",
+        "model": "ourstaff"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 14,
+    "fields": {
+        "app_label": "Home",
+        "model": "hottours"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 15,
+    "fields": {
+        "app_label": "Home",
+        "model": "headerfooter"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 16,
+    "fields": {
+        "app_label": "Home",
+        "model": "swiper"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "5t9ili89g091vncqvkhp5dld0ror06f0",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2pDOAEVcuvcMZGCmUjU0Ke3KeHfbpAvd_vfef6tI61Li2mSOI6uLAnX63RLlp9Qd8IPqfdJ5qss8Jr0r-qBN3yaW1_Vw_w4KtbLVjj0hDhkDZcvOAtnsUcQYew48ONOx6SGRQ-gzeUD0yRkW2LB0gdTnC-HuN5I:1sFSNt:SJjeLNU2l-4poXlNUwk6qO-1V8Pbk-VBSx3L7Wf_yyo",
+        "expire_date": "2024-06-21T05:43:29.765Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "mlcdf37bdp19gzikfr8e25018dpgji34",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2pDOAEVcuvcMZGCmUjU0Ke3KeHfbpAvd_vfef6tI61Li2mSOI6uLAnX63RLlp9Qd8IPqfdJ5qss8Jr0r-qBN3yaW1_Vw_w4KtbLVjj0hDhkDZcvOAtnsUcQYew48ONOx6SGRQ-gzeUD0yRkW2LB0gdTnC-HuN5I:1sFCUL:uSkIPzXyil2UIu3ls7JZGiuMzIDHp_hMUi4GbiJnyRQ",
+        "expire_date": "2024-06-20T12:45:05.603Z"
+    }
+},
+{
+    "model": "sessions.session",
+    "pk": "rlam8xxp5ke5b6qaqdffnu8xp06imk1t",
+    "fields": {
+        "session_data": ".eJxVjEEOwiAQRe_C2pDOAEVcuvcMZGCmUjU0Ke3KeHfbpAvd_vfef6tI61Li2mSOI6uLAnX63RLlp9Qd8IPqfdJ5qss8Jr0r-qBN3yaW1_Vw_w4KtbLVjj0hDhkDZcvOAtnsUcQYew48ONOx6SGRQ-gzeUD0yRkW2LB0gdTnC-HuN5I:1s9leH:yAV8hyczXhrsaTgoXiJ5sXMbXepjditEgxgwJOqwmt0",
+        "expire_date": "2024-06-05T13:04:53.475Z"
+    }
+},
+{
+    "model": "Home.createyourtourstyle",
+    "pk": 1,
+    "fields": {
+        "name": "Historical Excursions",
+        "is_visible": true,
+        "sort": 2,
+        "style_photo": "createyourtourstyle/2024/06/16/photo_2024-06-06_15-41-16.jpg",
+        "buttonname": "get in touch",
+        "slug": "True"
+    }
+},
+{
+    "model": "Home.createyourtourstyle",
+    "pk": 2,
+    "fields": {
+        "name": "Sea walks",
+        "is_visible": true,
+        "sort": 1,
+        "style_photo": "createyourtourstyle/2024/06/16/photo_2024-06-06_15-42-35.jpg",
+        "buttonname": "get in touch",
+        "slug": "True"
+    }
+},
+{
+    "model": "Home.discovernewhorizon",
+    "pk": 1,
+    "fields": {
+        "name": "about us",
+        "description": "Wonder Tour is committed to bringing our clients the best in value and quality travel arrangements. We are passionate about travel and sharing the world's wonders with you.",
+        "photo": "discoverNewHorizon/2024/06/16/photo_2024-06-06_15-41-45.jpg",
+        "buttonname": "Get in touch"
+    }
+},
+{
+    "model": "Home.discovernewhorizon",
+    "pk": 2,
+    "fields": {
+        "name": "WHY CHOOSE US",
+        "description": "We are proud to offer excellent quality and value for money in our tours, which give you the chance to experience your chosen destination in an authentic and exciting way.",
+        "photo": "discoverNewHorizon/2024/06/16/photo_2024-06-06_15-41-45_dYv8oz3.jpg",
+        "buttonname": "Get in touch2"
+    }
+},
+{
+    "model": "Home.discovernewhorizon",
+    "pk": 3,
+    "fields": {
+        "name": "OUR MISSION",
+        "description": "Our mission is to provide the ultimate travel planning experience while becoming a one-stop shop for every travel service available in the industry.",
+        "photo": "discoverNewHorizon/2024/06/16/photo_2024-06-06_15-41-45_d4pysFn.jpg",
+        "buttonname": "Get in touch3"
+    }
+},
+{
+    "model": "Home.ourservices",
+    "pk": 1,
+    "fields": {
+        "name": "Personalized Matching",
+        "description": "Our unique matching system lets you find just the tour you want for your next holiday.",
+        "icon": "fl-bigmug-line-equalization3"
+    }
+},
+{
+    "model": "Home.ourservices",
+    "pk": 2,
+    "fields": {
+        "name": "Wide Variety of Tours",
+        "description": "We offer a wide variety of personally picked tours with destinations all over the globe.",
+        "icon": "fl-bigmug-line-equalization3"
+    }
+},
+{
+    "model": "Home.ourservices",
+    "pk": 3,
+    "fields": {
+        "name": "Highly Qualified Service",
+        "description": "Our tour managers are qualified, skilled, and friendly to bring you the best service.",
+        "icon": "fl-bigmug-line-equalization3"
+    }
+},
+{
+    "model": "Home.hottours",
+    "pk": 1,
+    "fields": {
+        "name": "Sea",
+        "description": "Holiday",
+        "photo": "hottours/photo_2024-06-06_15-42-35.jpg",
+        "price": "1000.00",
+        "reviewstar": 5,
+        "reviews": 20,
+        "tourstyle": 2,
+        "date": "2024-06-16",
+        "is_visible": true
+    }
+},
+{
+    "model": "Home.hottours",
+    "pk": 2,
+    "fields": {
+        "name": "Ukrainian village",
+        "description": "Entertainign, you gonna learn a lot",
+        "photo": "hottours/photo_2024-06-06_15-41-56.jpg",
+        "price": "500.00",
+        "reviewstar": 6,
+        "reviews": 26,
+        "tourstyle": 1,
+        "date": "2024-06-16",
+        "is_visible": true
+    }
+},
+{
+    "model": "Home.ourstaff",
+    "pk": 1,
+    "fields": {
+        "name": "Libertas",
+        "position": "America tour manager",
+        "phone_number": "+17",
+        "photo": "ourstaff/2024/06/16/photo_2024-06-06_15-40-49.jpg"
+    }
+},
+{
+    "model": "Home.ourstaff",
+    "pk": 2,
+    "fields": {
+        "name": "Garold",
+        "position": "BeNiLux, Northern and Central Europe Regional Director",
+        "phone_number": "+4",
+        "photo": "ourstaff/2024/06/16/photo_2024-06-06_15-40-32.jpg"
+    }
+},
+{
+    "model": "Home.booktournow",
+    "pk": 1,
+    "fields": {
+        "description1": "First-class Impressions are Waiting for You!",
+        "description": "Our agency offers travelers various tours and excursions with destinations all over the world. Browse our website to find your dream tour",
+        "buttonname": "Book a tour now!",
+        "is_confirmed": true,
+        "photo": "booktournow/photo_2024-06-06_15-42-40.jpg"
+    }
+},
+{
+    "model": "Home.gallery",
+    "pk": 1,
+    "fields": {
+        "name": "flowers city",
+        "photo": "gallery/photo_2024-06-06_15-41-26.jpg"
+    }
+},
+{
+    "model": "Home.gallery",
+    "pk": 2,
+    "fields": {
+        "name": "demonstration",
+        "photo": "gallery/photo_2024-06-06_15-41-27_y6jHs2V.jpg"
+    }
+},
+{
+    "model": "Home.gallery",
+    "pk": 3,
+    "fields": {
+        "name": "shoping tours",
+        "photo": "gallery/photo_2024-06-06_15-41-28.jpg"
+    }
+},
+{
+    "model": "Home.gallery",
+    "pk": 4,
+    "fields": {
+        "name": "nature escape tours",
+        "photo": "gallery/photo_2024-06-06_15-41-36.jpg"
+    }
+},
+{
+    "model": "Home.gallery",
+    "pk": 5,
+    "fields": {
+        "name": "spain",
+        "photo": "gallery/photo_2024-06-06_15-42-55.jpg"
+    }
+},
+{
+    "model": "Home.contacts",
+    "pk": 1,
+    "fields": {
+        "address": "Kyiv city. Ukraine",
+        "email": "helen.aizman@gmail.com",
+        "phone_number": "+380",
+        "facebook_link": "https://www.facebook.com/belleepoqelena",
+        "instagram_link": "https://www.facebook.com/belleepoqelena",
+        "twitter_link": "https://www.facebook.com/belleepoqelena"
+    }
+},
+{
+    "model": "Home.swiper",
+    "pk": 1,
+    "fields": {
+        "photo_swiper": "swiper/photo_2024-06-06_15-42-41.jpg",
+        "advertise1": "Enjoy the best destinations with our travel agency",
+        "text12": "Trust",
+        "text21": "Our Experience",
+        "button": "Get in touch"
+    }
+},
+{
+    "model": "Home.swiper",
+    "pk": 2,
+    "fields": {
+        "photo_swiper": "swiper/photo_2024-06-06_15-42-41_RP4W5wc.jpg",
+        "advertise1": "Build your next holiday trip with us",
+        "text12": "Create",
+        "text21": "Your Tour",
+        "button": "Get in touch1"
+    }
+},
+{
+    "model": "Home.swiper",
+    "pk": 3,
+    "fields": {
+        "photo_swiper": "swiper/photo_2024-06-06_15-42-41_I34HidR.jpg",
+        "advertise1": "your future holiday",
+        "text12": "Explore",
+        "text21": "The World",
+        "button": "Get in touch2"
+    }
+},
+{
+    "model": "Home.headerfooter",
+    "pk": 1,
+    "fields": {
+        "name": "maybe header",
+        "photo": "headerfooter/photo_2024-06-06_15-41-15.jpg"
+    }
+},
+{
+    "model": "Home.headerfooter",
+    "pk": 2,
+    "fields": {
+        "name": "2",
+        "photo": "headerfooter/photo_2024-06-06_15-42-55.jpg"
+    }
+}
+]
