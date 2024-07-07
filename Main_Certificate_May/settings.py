@@ -34,7 +34,7 @@ DB_HOST = os.environ.get('DB_HOST'),
 DB_PORT = os.environ.get('DATABASE_URL'),
 DATABASE_URL = os.environ.get('DATABASE_URL')
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 #ALLOWED_HOSTS = ['traveltours-certificatemayjune-e48443673cae.herokuapp.com']
 ALLOWED_HOSTS = [os.environ.get('ALLOWED_HOSTS', '*')]
@@ -103,23 +103,23 @@ WSGI_APPLICATION = 'Main_Certificate_May.wsgi.application'
 
 DATABASES = {}
 
-if DEBUG:
-     DATABASES['default'] = {
-          'ENGINE': 'django.db.backends.sqlite3',
-           'NAME': BASE_DIR / 'db.sqlite3',
-     }
-else:
-    DATABASES['default'] = {
-        'ENGINE': 'django.db.backends.postgresql',
-        'NAME': os.environ.get('DB_NAME'),
-        'USER': os.environ.get('DB_USER'),
-        'PASSWORD': os.environ.get('DB_PASSWORD'),
-        'HOST': os.environ.get('DB_HOST'),
-        'PORT': os.environ.get('DB_PORT'),
-    }
+# if DEBUG:
+#      DATABASES['default'] = {
+#           'ENGINE': 'django.db.backends.sqlite3',
+#            'NAME': BASE_DIR / 'db.sqlite3',
+#      }
+# else:
+DATABASES['default'] = {
+    'ENGINE': 'django.db.backends.postgresql',
+    'NAME': os.environ.get('DB_NAME'),
+    'USER': os.environ.get('DB_USER'),
+    'PASSWORD': os.environ.get('DB_PASSWORD'),
+    'HOST': os.environ.get('DB_HOST'),
+    'PORT': os.environ.get('DB_PORT'),
+}
 
-    db_config = dj_database_url.config(default=DATABASE_URL, conn_max_age=600, conn_health_checks=True)
-    DATABASES['default'].update(db_config),
+db_config = dj_database_url.config(default=DATABASE_URL, conn_max_age=600, conn_health_checks=True)
+DATABASES['default'].update(db_config)
 
 
 # Password validation
