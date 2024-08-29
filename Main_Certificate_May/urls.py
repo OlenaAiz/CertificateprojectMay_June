@@ -20,13 +20,26 @@ from Home.views import IndexView
 from django.conf.urls.static import static
 
 from Main_Certificate_May import settings
+from сontact_us.views import index
 
-app_name = 'Home'
+# from contact_us.views import index
+
+# app_name = 'Home'
 
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', IndexView.as_view(), name='index'),
+    path('contact-us/', index, name='contacts')
 ]
 
 if settings.DEBUG:
     urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
+
+# app_name = 'сontact_us'
+# urlpatterns = [
+#     path('admin/', admin.site.urls),
+#     # path('', )
+# ]
+
+# if settings.DEBUG:
+#     urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

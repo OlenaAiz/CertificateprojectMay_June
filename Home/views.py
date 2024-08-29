@@ -1,10 +1,11 @@
-from django.shortcuts import render
-#from django.http import HttpResponse
+# from django.shortcuts import render
+# from django.http import HttpResponse
 import random
 from .models import (CreateYourTourStyle, OurServices, OurStaff, Gallery, HotTours, Contacts, DiscoverNewHorizon,
                      BookTourNow, Swiper, HeaderFooter)
 
 from django.views.generic import TemplateView
+
 
 class IndexView(TemplateView):
     template_name = 'main.html'
@@ -14,13 +15,13 @@ class IndexView(TemplateView):
     # tours = CreateYourTourStyle.objects.all()
     # for item in tours:
     #     print(item.name)
-    #for item in name:
+    # for item in name:
     # for hottours in hottours.objects.filter(category=item, is_visible=True):
-    #print(hottours.name)
-    #tourStyle = CreateYourTourStyle.objects.filter(is_visible=True)
-    #tourStyle = CreateYourTourStyle.objects.get(id=1)
-    #tourStyle = CreateYourTourStyle.objects.first()
-    #tourStyle = CreateYourTourStyle.objects.last()
+    # print(hottours.name)
+    # tourStyle = CreateYourTourStyle.objects.filter(is_visible=True)
+    # tourStyle = CreateYourTourStyle.objects.get(id=1)
+    # tourStyle = CreateYourTourStyle.objects.first()
+    # tourStyle = CreateYourTourStyle.objects.last()
     def get_context_data(self, **kwargs):
         context = super().get_context_data(**kwargs)
         context['staff'] = OurStaff.objects.all()
@@ -39,4 +40,3 @@ class IndexView(TemplateView):
         context['headerfooter'] = HeaderFooter.objects.all()
 
         return context
-

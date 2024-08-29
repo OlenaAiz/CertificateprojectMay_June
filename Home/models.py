@@ -1,6 +1,7 @@
 from django.db import models
-
+# from ckeditor.fields import RichTextField
 # Create your models here.
+
 
 class CreateYourTourStyle(models.Model):
     name = models.CharField(max_length=100, unique=True)
@@ -22,6 +23,7 @@ class CreateYourTourStyle(models.Model):
         verbose_name_plural = 'Tour Styles'
         ordering = ('sort',)
 
+
 class DiscoverNewHorizon(models.Model):
     # name_of_class = models.CharField(max_length=100, unique=True)
     name = models.CharField(max_length=100, unique=True)
@@ -37,6 +39,7 @@ class DiscoverNewHorizon(models.Model):
         verbose_name_plural = 'Discover New Horizons'
         ordering = ('name',)
 
+
 class OurServices(models.Model):
     name = models.CharField(max_length=100, unique=True)
     description = models.TextField()
@@ -49,6 +52,7 @@ class OurServices(models.Model):
         verbose_name = 'Our Service'
         verbose_name_plural = 'Our Services'
         ordering = ('name',)
+
 
 class HotTours(models.Model):
     name = models.CharField(max_length=100, unique=True)
@@ -71,6 +75,7 @@ class HotTours(models.Model):
         verbose_name_plural = 'Hot Tours'
         ordering = ('date',)
 
+
 class OurStaff(models.Model):
     name = models.CharField(max_length=255)
     position = models.CharField(max_length=255)
@@ -84,6 +89,7 @@ class OurStaff(models.Model):
         verbose_name = 'Our Staff'
         verbose_name_plural = 'Our Staff'
         ordering = ('position',)
+
 
 class BookTourNow(models.Model):
     description1 = models.CharField(max_length=100, unique=True)
@@ -100,6 +106,7 @@ class BookTourNow(models.Model):
         verbose_name_plural = 'Book A Tour Now'
         ordering = ('description1',)
 
+
 class Gallery(models.Model):
     name = models.CharField(max_length=255)
     photo = models.ImageField(upload_to='gallery/')
@@ -111,6 +118,7 @@ class Gallery(models.Model):
         verbose_name = 'Photo'
         verbose_name_plural = 'Photos'
         ordering = ('name',)
+
 
 class Contacts(models.Model):
     address = models.CharField(max_length=255)
@@ -129,6 +137,7 @@ class Contacts(models.Model):
         verbose_name_plural = 'Contacts'
         ordering = ('address',)
 
+
 class Swiper(models.Model):
     photo_swiper = models.ImageField(upload_to='swiper', blank=True, null=True)
     advertise1 = models.CharField(max_length=100, unique=True)
@@ -137,12 +146,13 @@ class Swiper(models.Model):
     button = models.CharField(max_length=100, unique=True)
 
     def __str__(self):
-         return f'{self.text12}-{self.text21}-{self.button}'
+        return f'{self.text12}-{self.text21}-{self.button}'
 
     class Meta:
-         verbose_name = 'Swiper'
-         verbose_name_plural = 'Swipers'
-         ordering = ('text12', )
+        verbose_name = 'Swiper'
+        verbose_name_plural = 'Swipers'
+        ordering = ('text12', )
+
 
 class HeaderFooter(models.Model):
     name = models.CharField(max_length=100, unique=True)
@@ -150,10 +160,8 @@ class HeaderFooter(models.Model):
 
     def __str__(self):
         return f'{self.name}'
+
     class Meta:
         verbose_name = 'headerfooter'
         verbose_name_plural = 'headerandfooter'
         ordering = ('name',)
-
-
-
